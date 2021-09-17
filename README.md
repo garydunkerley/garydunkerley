@@ -1,6 +1,4 @@
-- 👋  My name is Gary
-- 👀  I’m interested in low-dimensional topology.
-- 📫  You can find my contact information on my personal website: garydunkerley.github.io
+I'm a graduate student at the University of Georgia. 
 
 <!---
 garydunkerley/garydunkerley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
